@@ -1,5 +1,4 @@
-# Minishell
-minishell for 42
+# Minishell for 42 school
 a shell-like program that handles:
 -	pipe: '|'
 -	redirection:  '<', '>', '>>"
